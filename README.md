@@ -7,7 +7,7 @@
 *(Image Source: Medium - Toxicity Detection in NLP)*  
 
 ## **📌 Overview**  
-Toxicity Comment Classification is a deep learning-based project that classifies user comments into multiple toxicity categories using a **Bidirectional LSTM** model.  
+Toxicity Comment Classification is a deep learning-based project that classifies user comments into multiple toxicity categories using a **Bidirectional LSTM** model. In this we only use 1 epochs if we use more than 1 so we can improve thw accuracy and Percision score  
 
 🚀 **Key Features:**  
 ✔️ Uses **TextVectorization** for preprocessing.  
@@ -154,8 +154,7 @@ If you'd like to contribute:
 3️⃣ **Submit a Pull Request (PR)**  
 
 ---
-
-### ** This Project!** 🚀  
+ 
 
 
 
