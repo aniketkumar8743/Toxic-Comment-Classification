@@ -122,9 +122,9 @@ docker run -it --rm -p 8888:8888 -v $(pwd):/workspace toxicity-lstm
 
 | Metric            | Score  |
 |------------------|--------|
-| Precision       | 92.5%  |
-| Recall         | 89.8%  |
-| F1-Score      | 91.1%  |
+| Precision       | 82.5%  |
+| Recall         | 67.8%  |
+| Accuracy       | 75.1%  |
 
 *(Metrics may vary based on dataset and training configuration.)*  
 
@@ -136,7 +136,7 @@ docker run -it --rm -p 8888:8888 -v $(pwd):/workspace toxicity-lstm
 ## **🔮 Future Enhancements**  
 ✅ **Hyperparameter tuning** for improved model performance.  
 ✅ **Integration with Gradio** for interactive model testing.  
-✅ **Deployment as a REST API** or Web App.  
+✅ **Deployment as a Gradio**  
 
 ---
 
@@ -155,7 +155,7 @@ If you'd like to contribute:
 
 ---
 
-### **🎉 Thank You for Checking Out This Project!** 🚀  
+### ** This Project!** 🚀  
 
-![NLP GIF](https://media3.giphy.com/media/xT9IguC6bxSeM2F7oU/giphy.gif)  
+
 
